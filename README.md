@@ -5,18 +5,6 @@ This project showcases the global mission of Future Agri — connecting certifie
 
 ---
 
-## 🔗 Live Site
-
-Once deployed via GitHub Pages, your site will be live at:
-
-```
-https://quartermasters-fzc.github.io/future-agri-site/
-```
-
-_(Note: it may take a few minutes after enabling GitHub Pages in the repo settings.)_
-
----
-
 ## 🌟 Features
 
 - Full-screen dynamic **HERO** section with background imagery and typewriter animation
